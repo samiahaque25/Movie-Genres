@@ -1,0 +1,16 @@
+Samia Haque
+CISC 3130 MY9
+Assignment 4 - Movie Genres
+
+//How many movies are classified under each genre
+
+//The readme file is read
+//Constructors are set and the genre names are extracted
+//Count the number of times each genre was mentioned in the file.
+
+//this is done for the whole data set versus the five years
+
+//the release year for each movie
+//the readme file is read into the project
+//the release year is extracted 
+//the number of movies that came out from each genre is counted
